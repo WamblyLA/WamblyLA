@@ -1,2 +1,3 @@
-- 👋 Hi, I’m @WamblyLA and I love coding
-- I’m interested in JavaScript, React/Vue and sometimes C++/SQL
+- 👋 Hi, I’m @WamblyLA 
+- I’m interested in TypeScript/React, C++, Python, Kotlin
+- Nothing more to sya
