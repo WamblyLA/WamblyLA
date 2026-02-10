@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @WamblyLA 
-- I’m interested in TypeScript/React, C++, Python, Kotlin
-- Nothing more to sya
+IDK, Nothing to see here
