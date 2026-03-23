@@ -11,9 +11,12 @@
 - Python (ML/some backend)
 - Kotlin (backend)
 - TypeScript / JavaScript
-**Frontend:**
+- 
+<br>**Frontend:**
 - React, Redux
-**Backend:**
+
+<br>**Backend:**
 - Learning Spring, Ktor
-**Other:**
+
+<br>**Other:**
 - REST APIs, SQL, Git
