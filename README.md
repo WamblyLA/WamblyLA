@@ -11,7 +11,7 @@
 - Python (ML/some backend)
 - Kotlin (backend)
 - TypeScript / JavaScript
-- 
+
 <br>**Frontend:**
 - React, Redux
 
